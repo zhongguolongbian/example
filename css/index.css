@@ -1,0 +1,74 @@
+
+.item img{
+    width: 100%;
+}
+.dropdown-menu li{
+    width: 100%;
+}
+.dropdown-menu li img{
+    width: 100%;
+}
+.carousel{
+    opacity: 0.9;
+}
+.logo{
+    position: relative;
+}
+.switchover{
+    position: absolute;
+    top: 1px;
+    width: 100%;
+}
+.navbar{
+    border: none;
+    opacity: 1;
+}
+.container-fluid{
+    background: #ffffff;
+}
+.configuration{
+    padding: 0;
+}
+.configuration li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.configuration li img{
+    width: 100%;
+}
+.base li {
+    list-style: none;
+    line-height: 25px;
+}
+.bottom{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+.bottom1{
+    padding: 0;
+}
+.bottom1 li{
+    list-style: none;
+}
+.base{
+    padding: 0;
+    width: 100%;
+}
+.death li{
+    list-style: none;
+}
+.shares{
+    padding: 0;
+}
+.shares li{
+    list-style: none;
+}
+.shendes{
+    border-bottom: 2px  solid #8c8c8c;
+    margin-bottom: 10px;
+}
+.shendes ul li{
+    list-style: none;
+}
+
